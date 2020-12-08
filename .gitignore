@@ -1,0 +1,12 @@
+*/*.o
+*/*.docx
+*/.idea
+*/*.docx
+*/cmake*
+*/*.pdf
+*/prime_number
+*/scalar_product
+*/main
+*/lab1
+*/lab6
+*/lab7
